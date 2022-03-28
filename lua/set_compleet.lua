@@ -36,3 +36,4 @@ keymap.set("i", "<S-Tab>", s_tab, opts)
 keymap.set("i", "<Right>", right, opts)
 keymap.set("i", "<CR>", cr, opts)
 
+
